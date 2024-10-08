@@ -1,0 +1,5 @@
+ポジティブ
+nsfw, masterpiece, a girl whole body,  <lora:pussy:1>,  pussy
+
+ネガティブ
+worst quality,ugly,bad anatomy,jpeg artifacts, worst quality,out of focus,JPEG artifacts,low resolution,error, bad anatomy,long_body,mutated hands,missing arms,extra_arms,extra_legs,bad hands,missing_limb,disconnected_limbs,extra_fingers,missing fingers,liquid fingers,ugly face,deformed eyes,cropped
